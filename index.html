@@ -1,0 +1,58 @@
+<html>
+
+<head>
+<style type="text/css">
+	body {
+		padding:10%;
+		background-color: #111;
+		color: #ddd;
+		font-size:2em;
+		font-family:monospace;
+		line-height:2em;
+	}
+
+    #contact {
+		text-align: center;
+		opacity: 0;
+		transition: all 2s;
+	}
+
+</style>
+	
+
+
+<script type="text/javascript">
+	document.addEventListener('DOMContentLoaded', (event) => {
+		var main = document.getElementById("maintext");
+
+		var i = 0;
+		txt = main.innerText; /* The text */
+		main.innerText = "";
+
+		function typeWriter(el_id, cb) {
+		  if (i < txt.length) {
+		    document.getElementById(el_id).innerHTML += txt.charAt(i);
+		    i++;
+		    setTimeout(()=>typeWriter(el_id, cb), 20 + 30*Math.random());
+		  } else {
+		  	setTimeout(cb,500);
+		  }
+		}
+
+		typeWriter("maintext", ()=>document.getElementById('contact').style['opacity']=1);
+	})
+</script>
+
+</head>
+
+<body>
+<p id="maintext">
+We invented a revolutionary metal 3d printer, and we're using it to print the world's most advanced metal parts.<br>
+</p>
+
+<p id='contact'>
+	contact@leanparts.com
+</p>
+</body>
+
+</html>
