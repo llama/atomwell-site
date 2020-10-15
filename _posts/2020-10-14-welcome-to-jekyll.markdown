@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welding Printers"
 date:   2020-10-14 21:07:07 -0500
-categories: jekyll update
+categories: printers
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+"Welding printers" are metal 3d printers that build a part up by melting metal wire or powder onto the part layer by layer.
+These types of printers have many benefits over DMLS, but they have some major downsides:
+ - **Parts are not fully dense.** Welding is an inherently messy process, leaving inconsistent voids in the part.
+ - **Grinding requirement.** Usually the additive printing must be paused periodically to grind away excess material.
+ - **No small features.** Welding does not scale down well to features that are millimeters in size.
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Atomwell's proprietary selective powder deposition process prints parts that are 100% dense without post-processing, requires no grinding, and supports very small features.
