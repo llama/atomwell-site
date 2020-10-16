@@ -13,15 +13,12 @@ layout: home
 
 **Specs:**
  - 3D Printing process: Selective Powder Deposition (SPD)
- - Build volume of Model C: about 279x274x110 mm
+ - Build volume of [Model C](https://shop.atomwell.com/products/atomwell-model-c-printer): about 279x274x110 mm
  - Build volume of Model G: about 610x610x310 mm
  - Pourer diameter: 0.9 mm and 1.9 mm
  - Layer height: 0.1 to 1 mm (user configurable in GUI)
  - Min width of a detail: one pourer diameter
  - Min height of a detail: one layer height
- - Model C cost: $7,000 + shipping
- - Model G cost: $35,000 + shipping
-
 
 
 # [The Shop](https://shop.atomwell.com/)
