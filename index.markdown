@@ -51,7 +51,7 @@ Print time very much depends on the size and complexity of the object. Rough ave
 
 ## Is there any post-processing required?
 
-Yes. After filling the crucible with the powders, you would need to bake it in a kiln or furnace.
+Yes, but much less than with other metal printing technolgies. After filling the crucible with the powders, you would need to bake it in a kiln or furnace. After baking, the part needs to be snipped off of the sprue. This part is usable as-is in many applications–it is fully dense and has no supports to remove.
 
 
 
@@ -75,7 +75,7 @@ For copper infill metal, your kiln should be able to go above the copper melting
 
 ## How can I buy the printer?
 
-You can order the printer by [email](mailto:contact@atomwell.com).
+You can order the printer in he [Atomwell Shop](https://shop.atomwell.com)
 
 
 
@@ -93,3 +93,8 @@ There are many:
  - Molds and mold cores (for plastic injection molding) with [conformal cooling channels](https://www.google.com/search?q=conformal+cooling+channels&client=ubuntu&hl=en&sxsrf=ALeKk00GumPqh0f0ofqcKaueSphStd-npA:1583881270059&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjc997DgZHoAhWhoFsKHX4pCLkQ_AUoAXoECA4QAw&biw=1920&bih=1008).
  - [Rocket engines](https://www.google.com/search?q=3d+printed+rocket+engines&tbm=isch&ved=2ahUKEwja3LLFgZHoAhX8IzQIHV5eAS8Q2-cCegQIABAA&oq=3d+printed+rocket+engine&gs_l=img.1.0.35i39j0l2j0i8i30j0i24.1120054.1123217..1123660...0.0..0.110.397.2j2......0....1..gws-wiz-img.......0i131j0i67.17KuG2yDdYE&ei=ORxoXprcH_zH0PEP3ryF-AI&bih=1008&biw=1920&client=ubuntu&hl=en), including injector plates, pumps, combustion chambers, and nozzles.
  - Large ship propellers in [nickel aluminum bronze](https://www.copper.org/applications/marine/nickel_al_bronze/pub-222-nickel-al-bronze-guide-engineers.pdf).
+
+
+## I have another question.
+
+[Email us!](mailto:contact@atomwell.com)
