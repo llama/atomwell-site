@@ -14,7 +14,7 @@ layout: home
 **Specs:**
  - 3D Printing process: Selective Powder Deposition (SPD)
  - Build volume of [Model C](https://shop.atomwell.com/products/atomwell-model-c-printer): about 279x274x110 mm
- - Build volume of Model G: about 610x610x310 mm
+ - Build volume of [Model G](https://shop.atomwell.com/products/atomwell-model-g-printer): about 610x610x310 mm
  - Pourer diameter: 0.9 mm and 1.9 mm
  - Layer height: 0.1 to 1 mm (user configurable in GUI)
  - Min width of a detail: one pourer diameter
