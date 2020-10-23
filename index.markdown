@@ -9,7 +9,7 @@ layout: home
 # 3D printer that prints solid, 100% dense, precise, and strong metal objects.
 
 
-![The Atomwell Printer](/assets/img/printer.jpg)
+![The Atomwell Printer](/assets/img/printer alpha.png)
 
 **Specs:**
  - 3D Printing process: Selective Powder Deposition (SPD)
