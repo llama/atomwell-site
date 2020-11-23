@@ -21,8 +21,7 @@
 title: Atomwell
 email: contact@atomwell.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Atomwell's unique metal 3d printer creates solid, 100% dense, precise, and strong metal objects.
-  We manufacture and sell our selective powder deposition printer, materials, and accessories. 
+  We manufacture and sell selective powder deposition materials and accessories. 
   We also offer a 3d printing service for your parts.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://atomwell.com" # the base hostname & protocol for your site, e.g. http://example.com
